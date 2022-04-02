@@ -1,7 +1,7 @@
 # subway
 
 
-#### http://eunbinzz.cafe24.com/r_subway/#/
+#### http://eunbinzz.cafe24.com/subway/#/
 
 ### 🛠 React, Json, Javascript, HTML, CSS, JQuery
 ----------
