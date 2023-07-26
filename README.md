@@ -1,7 +1,5 @@
 # subway
 
-### http://eunbinzz.cafe24.com/subway/#/
-
 
 ### 🛠 React, Json, AJax, Javascript, HTML, CSS, JQuery, KakaoAPI, KakaoMap
 ----------
